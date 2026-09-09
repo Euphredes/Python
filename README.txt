@@ -1,9 +1,8 @@
-           ------ 
-           Python 
-           ------ 
+           -------- 
+           Engineer 
+           -------- 
 
            Publishing 
-           ---------- 
 
 Licensing: Content in this text file 
            is licensed under a Creative 
@@ -14,13 +13,12 @@ Release: Thursday, September 3rd 2026.
 Location: Philadelphia, PA. 
 
            Contents 
-           -------- 
 
-Introduction                         - 
-Datatables                           II. 
-Graphs                               IX. 
-Models                               XVIII. 
-Predictions                          XXXIV. 
+Introduction 
+Tables 
+Graphs 
+Models 
+Pipeline 
 
            ***** 
             *** 
